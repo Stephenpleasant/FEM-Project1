@@ -30,7 +30,7 @@ body{
 .text{
     position: relative;
     float: right;
-    background-color:  hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 100%);
     box-sizing: border-box;
     text-align: left;
     justify-items: left;
